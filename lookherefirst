@@ -1,4 +1,12 @@
-execute command
+create folder
+ -- images/soil/
+
+execute the javascriptfile first on the browser
+locate the url of strings
+execute the downloadimages python script
+
+
+execute command for checking for duplicates
 python .\detect_and_remove.py --dataset images\soil
 
 execute command to remove duplicates
@@ -13,3 +21,4 @@ PROJECT flow
  -- javascriptfile to get urls
  -- python to download each urls
  -- python file to check for duplicates
+
